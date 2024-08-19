@@ -1,0 +1,215 @@
+[
+	{
+		"id": "c67ab8a7",
+		"title": "Koh Chang",
+		"cover": "https://www.oasis-kohchang.com/wp-content/uploads/2012/03/general_002.jpg",
+		"pictures": [
+			"https://www.thetravelmagazine.net/wp-content/uploads/Koh-Chang-Lonely-Beach.jpg",
+			"https://blog.bangkokair.com/wp-content/uploads/2023/07/places-koh-chang.jpeg",
+			"https://pix10.agoda.net/hotelImages/63169/-1/86a68d7dc4bf7d13442028105ceba92e.jpg?ca=12&ce=1&s=702x392",
+			"https://www.tripsavvy.com/thmb/rdMouqjpVWI-whuHCMn05JI-Npc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/koh-chang-lonely-beach-5ad02cd1a474be00362365f9.jpg",
+			"https://www.thainationalparks.com/img/tnp/hero-space/pois/mu-ko-chang-national-park.jpg"
+		],
+		"description": "Koh Chang (elephant Island) is Thailand’s second-largest island and the primary Destination for those visiting Koh Chang Marine national park, which includes dozens of unspoiled islands. ",
+		"host": {
+			"name": "Nathalie Jean",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
+		},
+		"rating": "5",
+		"location": "Trat Province",
+		"equipments": [
+			"Departure with rental car friday 13 september ( woohoo ) early morning to arrive in the afternoon or Departure thursday 12 september in the evening, take a hotel night at the pier or close and take the ferry in the morning. Leaving the island, monday 16 september."
+		],
+		"tags": [
+			"Beautiful beach",
+			"Trekking",
+			"Waterfall",
+			"River"
+		],
+		"cons":[
+			"Tedious to go",
+			"Alban really doesn’t like it"
+		]
+	},
+	{
+		"id": "b9123946",
+		"title": "Koh Mak",
+		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdB10MJoCot8DmxUbwNHY8eB0E-X3W7c7gfg&s",
+		"pictures": [
+			"https://www.thelostpassport.com/wp-content/uploads/2020/01/Koh-Mak-Viewpoint.jpg",
+			"https://cf.bstatic.com/xdata/images/hotel/max1024x768/273410873.jpg?k=6483bb9202ee0d92c1113ba28aeabcea8100eee750f7498aba35e368fa9cf8b1&o=&hp=1",
+			"https://i0.wp.com/www.tielandtothailand.com/wp-content/uploads/2015/11/Koh-Mak-Ao-Suan-Yai-12.jpg?resize=1000%2C550&ssl=1",
+			"https://jonistravelling.com/wp-content/uploads/2016/04/suan-yai-bay-koh-maak.jpg"
+		],
+		"description": "Koh Mak is a quiet location for people who are looking for a relaxing holiday.  If you are looking for long deserted beaches then you’ll find them on Koh Mak.  There aren’t any jetskis or beer bars.  So it isn’t for someone looking for an alternative to Phuket or Pattaya.",
+		"host": {
+			"name": "Della Case",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
+		},
+		"rating": "4",
+		"location": "Trat Province",
+		"equipments": [
+			"Departure with rental car friday 13 september ( woohoo ) early morning to arrive in the afternoon or Departure thursday 12 september in the evening, take a hotel night at the pier or close and take the ferry in the morning. Leaving the island, monday 16 september. The car will be left at the pier"
+		],
+		"tags": [
+			"Beach",
+			"Beautiful",
+			"Farniente"
+		],
+		"cons":[
+			"Tedious to go",
+			"Longer boat time",
+			"No car"
+		]
+	},
+	{
+		"id": "46d188c5",
+		"title": "Koh Samet",
+		"cover": "https://i0.wp.com/cutlooseadventure.com/wp-content/uploads/2020/12/Koh-Samet-Map-only.png?resize=1024%2C768&ssl=1",
+		"pictures": [
+			"https://i0.wp.com/cutlooseadventure.com/wp-content/uploads/2020/11/Ao-Hin-Khok-Beach.jpg?resize=1024%2C768&ssl=1",
+			"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/af/44/20/koh-samed.jpg?w=1200&h=-1&s=1",
+			"https://static.bangkokpost.com/media/content/dcx/2021/08/19/4063459.jpg"
+		],
+		"description": "Koh Samet is a popular weekend getaway for Thais and foreigners living in Bangkok, so there are dozens of Beach resorts, bars, and restaurants on nearly every beach, although visitors are allowed to camp if they wish to do so.",
+		"host": {
+			"name": "Franck Maher",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
+		},
+		"rating": "3",
+		"location": "Rayong Province",
+		"equipments": [
+			"Departure in Van, Friday 13 September noon or afternoon, according to your availability. Leaving the island, Sunday 15 September or Monday 16 September according to your availability."
+		],
+		"tags": [
+			"Beach",
+			"Island",
+			"Close"
+		],
+		"cons":[
+			"No trek",
+			"No river",
+			"meh"
+		]
+	},
+	{
+		"id": "7af00cd6",
+		"title": "Chumphon Prachuap",
+		"cover": "https://img.12go.com/0/fit/1024/0/ce/1/plain/s3://12go-web-static/static/images/upload-media/4144.jpeg",
+		"pictures": [
+			"https://api.tourismthailand.org/upload/live/content_article/1124-24079.jpeg",
+			"https://api.tourismthailand.org/upload/live/content_article/1124-24080.png"
+		],
+		"description": "The provincial capital of Prachuap Khiri Khan is a Fishing port with a superb location beside beautiful curving bays and amongst steep mountain outcrops. Chumphon is a southern province (changwat) of Thailand on the Gulf of Thailand. Neighbouring provinces are Prachuap Khiri Khan, Surat Thani, and Ranong.",
+		"host": {
+			"name": "Della Case",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
+		},
+		"rating": "3",
+		"location": "Chumphon Province, Prachuap Khiri Khan Province",
+		"equipments": [
+			"Departure and leaving to be determined"
+		],
+		"tags": [
+			"Beach",
+			"Easy to go",
+			"Airbnb possible"
+		],
+		"cons":[
+			"No Island",
+			"Far away"
+		]
+	},
+	{
+		"id": "0979876d",
+		"title": "Sai Yok",
+		"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqB0ieihJzsl4BhsEIPfnb0GIhcgykChvhw&s",
+		"pictures": [
+			"https://mychiangmaitour.com/wp-content/images/kanchanaburi/sai_yok_yai_watrefall02.jpg",
+			"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f9/a7/99/caption.jpg?w=1200&h=-1&s=1",
+			"https://www.discoverythailand.com/storage/img/frontend/attraction/sai-yok-waterfalls-1-1594892373.jpg"
+		],
+		"description": "A popular national park for local and foreign tourists, known for its waterfalls, caves, historical sites and raft houses along its main river Khwae Noi. The park covers 958 km² in Sai Yok District of Kanchanaburi Province, the entrance is about 100 km northwest of Kanchanaburi City.",
+		"host": {
+			"name": "Franck Maher",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
+		},
+		"rating": "5",
+		"location": "Kanchanaburi Province",
+		"equipments": [
+			"Departure in Van, Friday 13 September noon or afternoon, according to your availability. Leaving the island, Sunday 15 September or Monday 16 September according to your availability."
+		],
+		"tags": [
+			"Not far",
+			"Waterfall",
+			"Bungalow on river",
+			"Trekking"
+		],
+		"cons":[
+			"No Island",
+			"No Beaches"
+		]
+	},
+	{
+		"id": "f72a452f",
+		"title": "Koh Tao",
+		"cover": "https://i.pinimg.com/originals/6f/5a/28/6f5a28c44929555e1db31d02e86d5b3f.jpg",
+		"pictures": [
+			"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a7/4c/45/koh-tao-thailand1-largejpg.jpg?w=600&h=-1&s=1",
+			"https://i0.wp.com/visitkohtao.org/wp-content/uploads/2021/09/D8255DB0-E910-42E9-AF9F-48A4E6B6DEEE.png?fit=800%2C416&ssl=1",
+			"https://images.unsplash.com/photo-1584569334890-e8c4f48bc4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGtvaCUyMHRhb3xlbnwwfHx8fDE2ODQ1MDg1MDJ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+		],
+		"description": "The tiny Island of Koh Tao ('Turtle Island'), 45 km north of Koh Phangan, is one of the top scuba diving destinations in Thailand. ",
+		"host": {
+			"name": "Line Rolland",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-3.jpg"
+		},
+		"rating": "5",
+		"location": "Prachuap Khiri khan Province",
+		"equipments": [
+			"Departure Thursday 12 September 9Pm from Khao San Road, arriving at 9am, Friday 13 September to Koh Tao. Leaving Monday 16 September 10am, arriving at 9pm same day to Khao San road."
+		],
+		"tags": [
+			"Beach",
+			"Island",
+			"Beautiful",
+			"Snorkeling"
+		],
+		"cons":[
+			"Tedious to go",
+			"Yeongji PTSD"
+		]
+	},
+	{
+		"id": "b4c67936",
+		"title": "Krabi",
+		"cover": "https://images.ctfassets.net/rc3dlxapnu6k/3WnGYVCivxNga96vKkxZKR/2572f20ce776e92fd842c6e09d43e667/Thailand__Krabi__Railay__2_.jpg?w=2120&h=1192&fl=progressive&q=50&fm=jpg",
+		"pictures": [
+			"https://touringhighlights.com/wp-content/uploads/2022/05/Krabi-Thailand-1.jpg",
+			"https://www.civitatis.com/f/tailandia/krabi/krabi-m.jpg",
+			"https://blog.bangkokair.com/wp-content/uploads/2016/08/shutterstock_252742501-e1471341579543.jpg"
+		],
+		"description": "Krabi is famous for its scenic view and breathtaking Beaches and Islands. Its coral reef vistas are also one of the world’s most beautiful, which makes the City a great spot for coral diving.",
+		"host": {
+			"name": "Hugo Perrier",
+			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
+		},
+		"rating": "3",
+		"location": "Krabi Province",
+		"equipments": [
+			"Departure by flight Friday morning. Leaving by Flight monday."
+		],
+		"tags": [
+			"Beach",
+			"Trekking",
+			"River",
+			"Waterfall",
+			"Mountain(ish)",
+			"Island(ish)"
+		],
+		"cons":[
+			"Lois might stab me for taking a plane"
+		]
+	}
+
+]
