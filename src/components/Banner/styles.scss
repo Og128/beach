@@ -45,11 +45,19 @@
     .background-banner.home {
         background-image: linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.3)), url('../../assets/bannerhome.jpg');
         background-position-y: -450px;
+        @media (max-width:599px) {
+            background-position-y: 0;
+            
+        }
     }
 
     .background-banner.about {
         background-image: linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.3)), url('../../assets/bannerapropos.jpg');
         background-position-y: -150px;
+        @media (max-width:599px) {
+            background-position-y: 0;
+            
+        }
 
         .title-banner {
             display: none;

@@ -1,12 +1,12 @@
 import './styles.scss'
-import Logo from '../../assets/LogoFooter.png'
+import Logo from '../../assets/logo.png'
 
 function Footer() {
     return (
         <div>
             <footer className='footer'>
                 <img className="img-footer" src={Logo} alt="Logo kasa" />
-                <p className='msg-footer'>© 2020 Kasa. All rights reserved</p>
+                <p className='msg-footer'>© 2024 Beach Project. All rights reserved</p>
             </footer>
         </div>
     )
