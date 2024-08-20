@@ -18,7 +18,8 @@
 		"rating": "5",
 		"location": "Trat Province",
 		"equipments": [
-			"Departure with rental car friday 13 september ( woohoo ) early morning to arrive in the afternoon or Departure thursday 12 september in the evening, take a hotel night at the pier or close and take the ferry in the morning. Leaving the island, monday 16 september."
+			"Departure : 12/09 evening, by Rental Car. Sleep at the pier. Ferry in the morning.",
+			"Leaving : 15/09 Morning for Yuki/Lois by Bus or Taxi. 16/09 noon, for the rest by Rental car."
 		],
 		"tags": [
 			"Beautiful beach",
@@ -26,7 +27,7 @@
 			"Waterfall",
 			"River"
 		],
-		"cons":[
+		"cons": [
 			"Tedious to go",
 			"Alban really doesn’t like it"
 		]
@@ -49,14 +50,15 @@
 		"rating": "4",
 		"location": "Trat Province",
 		"equipments": [
-			"Departure with rental car friday 13 september ( woohoo ) early morning to arrive in the afternoon or Departure thursday 12 september in the evening, take a hotel night at the pier or close and take the ferry in the morning. Leaving the island, monday 16 september. The car will be left at the pier"
+			"Departure : 12/09 evening, by Rental Car. Sleep at the pier. Ferry in the morning.",
+			"Leaving : 15/09 Morning for Yuki/Lois by Bus or Taxi. 16/09 noon, for the rest by Rental car."
 		],
 		"tags": [
 			"Beach",
 			"Beautiful",
 			"Farniente"
 		],
-		"cons":[
+		"cons": [
 			"Tedious to go",
 			"Longer boat time",
 			"No car"
@@ -79,14 +81,15 @@
 		"rating": "3",
 		"location": "Rayong Province",
 		"equipments": [
-			"Departure in Van, Friday 13 September noon or afternoon, according to your availability. Leaving the island, Sunday 15 September or Monday 16 September according to your availability."
+			"Departure : 13/09 morning, by Bus/Van.",
+			"Leaving : 15/09 afternoon for Yuki/Lois by Bus or Taxi. 16/09 afternoon, for the rest by Bus or Taxi."
 		],
 		"tags": [
 			"Beach",
 			"Island",
 			"Close"
 		],
-		"cons":[
+		"cons": [
 			"No trek",
 			"No river",
 			"meh"
@@ -108,14 +111,15 @@
 		"rating": "3",
 		"location": "Chumphon Province, Prachuap Khiri Khan Province",
 		"equipments": [
-			"Departure and leaving to be determined"
+			"Departure : 12/09 evening, by Rental Car.",
+			"Leaving : 15/09 afternoon for Yuki/Lois by Bus, Taxi or Train. 16/09 afternoon, for the rest by Rental Car."
 		],
 		"tags": [
 			"Beach",
 			"Easy to go",
 			"Airbnb possible"
 		],
-		"cons":[
+		"cons": [
 			"No Island",
 			"Far away"
 		]
@@ -137,7 +141,8 @@
 		"rating": "5",
 		"location": "Kanchanaburi Province",
 		"equipments": [
-			"Departure in Van, Friday 13 September noon or afternoon, according to your availability. Leaving the island, Sunday 15 September or Monday 16 September according to your availability."
+			"Departure : 12/09 evening, by Rental Car, Bus, Train or Van.",
+			"Leaving : 15/09 afternoon for Yuki/Lois by Bus, Taxi or Train. 16/09 afternoon, for the rest by Bus, Taxi or Train."
 		],
 		"tags": [
 			"Not far",
@@ -145,7 +150,7 @@
 			"Bungalow on river",
 			"Trekking"
 		],
-		"cons":[
+		"cons": [
 			"No Island",
 			"No Beaches"
 		]
@@ -165,9 +170,10 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-3.jpg"
 		},
 		"rating": "5",
-		"location": "Prachuap Khiri khan Province",
+		"location": "Surat Thani Province",
 		"equipments": [
-			"Departure Thursday 12 September 9Pm from Khao San Road, arriving at 9am, Friday 13 September to Koh Tao. Leaving Monday 16 September 10am, arriving at 9pm same day to Khao San road."
+			"Departure : 12/09 9pm by night Bus, arriving 13/09 9am morning.",
+			"Leaving : 15/09 10am or 2pm for Yuki/Lois by Bus, arriving 9pm or 1am. 16/09 10am or 2pm arriving 9pm or 1am, for the rest by bus."
 		],
 		"tags": [
 			"Beach",
@@ -175,7 +181,7 @@
 			"Beautiful",
 			"Snorkeling"
 		],
-		"cons":[
+		"cons": [
 			"Tedious to go",
 			"Yeongji PTSD"
 		]
@@ -197,7 +203,8 @@
 		"rating": "3",
 		"location": "Krabi Province",
 		"equipments": [
-			"Departure by flight Friday morning. Leaving by Flight monday."
+			"Departure : 12/09 7pm by Nightbus or 13/09 morning by Flight",
+			"Leaving : 15/09 5pm by Nightbus for Yuki/Lois, 16/09 5pm by Nightbus or by Flight for the rest."
 		],
 		"tags": [
 			"Beach",
@@ -207,9 +214,8 @@
 			"Mountain(ish)",
 			"Island(ish)"
 		],
-		"cons":[
+		"cons": [
 			"Lois might stab me for taking a plane"
 		]
 	}
-
 ]
