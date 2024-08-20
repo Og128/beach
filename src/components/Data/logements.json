@@ -18,8 +18,14 @@
 		"rating": "5",
 		"location": "Trat Province",
 		"equipments": [
-			"Departure : 12/09 evening, by Rental Car. Sleep at the pier. Ferry in the morning.",
-			"Leaving : 15/09 Morning for Yuki/Lois by Bus or Taxi. 16/09 noon, for the rest by Rental car."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September in the evening, by Rental Car. Sleep at the pier. Ferry in the morning."
+		],
+		"leaving": [
+			"Sunday 15 September in the morning by Bus or Taxi, for Yuki/Lois ",
+			"Monday 16 September at noon by Rental car,  for the rest "
 		],
 		"tags": [
 			"Beautiful beach",
@@ -50,8 +56,14 @@
 		"rating": "4",
 		"location": "Trat Province",
 		"equipments": [
-			"Departure : 12/09 evening, by Rental Car. Sleep at the pier. Ferry in the morning.",
-			"Leaving : 15/09 Morning for Yuki/Lois by Bus or Taxi. 16/09 noon, for the rest by Rental car."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September in the evening, by Rental Car. Sleep at the pier. Ferry in the morning."
+		],
+		"leaving": [
+			"Sunday 15 September in the morning by Bus or Taxi, for Yuki/Lois ",
+			"Monday 16 September at noon by Rental car, for the rest"
 		],
 		"tags": [
 			"Beach",
@@ -81,8 +93,14 @@
 		"rating": "3",
 		"location": "Rayong Province",
 		"equipments": [
-			"Departure : 13/09 morning, by Bus/Van.",
-			"Leaving : 15/09 afternoon for Yuki/Lois by Bus or Taxi. 16/09 afternoon, for the rest by Bus or Taxi."
+			"Have fun o/"
+		],
+		"departure": [
+			"Friday 13 September by Bus or Van."
+		],
+		"leaving": [
+			"Sunday 15 September in the afternoon by Bus or Taxi, for Yuki/Lois",
+			"Monday 16 September in the afternoon by Bus or Taxi, for the rest "
 		],
 		"tags": [
 			"Beach",
@@ -111,8 +129,15 @@
 		"rating": "3",
 		"location": "Chumphon Province, Prachuap Khiri Khan Province",
 		"equipments": [
-			"Departure : 12/09 evening, by Rental Car.",
-			"Leaving : 15/09 afternoon for Yuki/Lois by Bus, Taxi or Train. 16/09 afternoon, for the rest by Rental Car."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September evening, by Rental Car.",
+			"Friday 13 September in the morning by Bus, Taxi or Train"
+		],
+		"leaving": [
+			"Sunday 15 September at noon by Train or in the afternoon by Bus, Taxi, for Yuki/Lois",
+			"Monday 16 September in the afternoon if Rental Car or, at noon by Train, or in the afternoon by Bus or Taxi for the rest"
 		],
 		"tags": [
 			"Beach",
@@ -141,8 +166,14 @@
 		"rating": "5",
 		"location": "Kanchanaburi Province",
 		"equipments": [
-			"Departure : 12/09 evening, by Rental Car, Bus, Train or Van.",
-			"Leaving : 15/09 afternoon for Yuki/Lois by Bus, Taxi or Train. 16/09 afternoon, for the rest by Bus, Taxi or Train."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September in the evening, by Rental Car, Bus, Train or Van."
+		],
+		"leaving": [
+			"Sunday 15 September in the afternoon by Bus, Taxi or Train, for Yuki/Lois",
+			"Monday 16 September in the afternoon by Bus, Taxi or Train, for the rest "
 		],
 		"tags": [
 			"Not far",
@@ -172,8 +203,14 @@
 		"rating": "5",
 		"location": "Surat Thani Province",
 		"equipments": [
-			"Departure : 12/09 9pm by night Bus, arriving 13/09 9am morning.",
-			"Leaving : 15/09 10am or 2pm for Yuki/Lois by Bus, arriving 9pm or 1am. 16/09 10am or 2pm arriving 9pm or 1am, for the rest by bus."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September 9pm by NightBus, arriving 13/09 9am morning."
+		],
+		"leaving": [
+			"Sunday 15 September 10am or 2pm by Bus, for Yuki/Lois",
+			"Monday 16 September 10am or 2pm arriving 9pm or 1am by bus, for the rest."
 		],
 		"tags": [
 			"Beach",
@@ -203,8 +240,15 @@
 		"rating": "3",
 		"location": "Krabi Province",
 		"equipments": [
-			"Departure : 12/09 7pm by Nightbus or 13/09 morning by Flight",
-			"Leaving : 15/09 5pm by Nightbus for Yuki/Lois, 16/09 5pm by Nightbus or by Flight for the rest."
+			"Have fun o/"
+		],
+		"departure": [
+			"Thursday 12 September at 7pm by Nightbus",
+			"Friday 13 September in the morning by Flight"
+		],
+		"leaving": [
+			"Sunday 15 September at 5pm by Nightbus for Yuki/Lois",
+			"Monday 16 September at 5pm by Nightbus or by Flight for the rest."
 		],
 		"tags": [
 			"Beach",
