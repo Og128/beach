@@ -5,7 +5,11 @@ import Banner from "../../components/Banner"
 import './styles.scss'
 // import Cards from "../../components/Card";
 import Parti from "../../components/Parti"
-import olivier from "../../assets/olivier.png"
+import olivier from "../../assets/Olivier.jpg"
+import lois from "../../assets/Lois.jpg"
+import yuki from "../../assets/Yuki.jpg"
+import yeon from "../../assets/yeon.jpg"
+import alban from "../../assets/Alban.jpg"
 
 function About() {
     return (
@@ -13,30 +17,28 @@ function About() {
             <div className="main">
                 <Header />
                 <Banner />
+                <h1 className="title-parti">In Construction</h1>
                 <div className="container-dropdown">
-                    <h1>In Construction</h1>
                     <Parti 
                     cover ={olivier}
-                    title="bijour" />
-                    {/* <DropDown
-                        key="1"
-                        title="Fidélité"
-                        text="Les annonces postées sur Kasa garantissent une fiabilité totale. Les photos sont conformes aux logements, et toutes les informations sont régulièrement vérifiées par nos équipes"
-                    />
-                    <DropDown
-                        key="2"
-                        title="Respect"
-                        text="La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une excluse de notre plateforme" />
-                    <DropDown
-                        key="3"
-                        title="Service"
-                        text="La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une excluse de notre plateforme"
-                    />
-                    <DropDown
-                        key="4"
-                        title="Sécurité"
-                        text="La sécurité est la priorité de Kasa. Aussi bien pour nos hôtes que pour les voyageurs, chaque logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipe de vérifier que les standards sont bien respectés. Nous organisons également des ateliers sur la sécurité domestique pour nos hôtes."
-                    /> */}
+                    title="Olivier"
+                    role="Chief Executive Officer and Project Management Officer" />
+                    <Parti 
+                    cover ={lois}
+                    title="Lois"
+                    role="Head of hiking and bird watching " />
+                    <Parti 
+                    cover ={yuki}
+                    title="Yuki"
+                    role="Chief Financial Officer and bird watching assistant" />
+                    <Parti 
+                    cover ={alban}
+                    title="Alban"
+                    role="Personal Transportation Specialist" />
+                    <Parti 
+                    cover ={yeon}
+                    title="Yeongji"
+                    role="Chief Enthusiasm Officer and Whoaaa Ambassador" />
                 </div>
             </div>
             <Footer />
